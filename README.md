@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m not currently working on<br>👯 I’m looking to collaborate on various projects and topics like<br>Web development<br>🌱 I’m currently learning c#,Python, Azure and Office 365 fundamentales,<br>Web frameworks and libraries, and more<br>💬 Ask me about programming<br>⚡ Fun fact: I'm lazy but smarter and focused
+🔭 I’m not currently working on<br>👯 I’m looking to collaborate on various projects and topics like<br>Web development, game development, database management and more. <br>🌱 I’m currently learning c#,Python, Azure and Office 365 fundamentales,<br>Web frameworks and libraries, and more<br>💬 Ask me about programming<br>⚡ Fun fact: I'm lazy but smarter and focused
 
 
 ## 🌐 Socials:
